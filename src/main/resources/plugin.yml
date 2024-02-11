@@ -1,0 +1,4 @@
+name: RDHide
+version: '${project.version}'
+main: ru.rivendell.rdhide.RDHide
+api-version: '1.19'
